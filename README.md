@@ -1,9 +1,11 @@
-<pre style="margin: auto;"> ██████╗ ██╗  ██╗ ██████╗ ██╗ ██████╗ ██████╗  ██████╗ █████╗ ███████╗██████╗ 
+<pre>
+ ██████╗ ██╗  ██╗ ██████╗ ██╗ ██████╗ ██████╗  ██████╗ █████╗ ███████╗██████╗ 
 ██╔═████╗╚██╗██╔╝██╔════╝███║██╔════╝ ██╔══██╗██╔════╝██╔══██╗╚════██║╚════██╗
 ██║██╔██║ ╚███╔╝ ███████╗╚██║███████╗ ██║  ██║███████╗╚██████║    ██╔╝ █████╔╝
 ████╔╝██║ ██╔██╗ ██╔═══██╗██║██╔═══██╗██║  ██║██╔═══██╗╚═══██║   ██╔╝ ██╔═══╝ 
 ╚██████╔╝██╔╝ ██╗╚██████╔╝██║╚██████╔╝██████╔╝╚██████╔╝█████╔╝   ██║  ███████╗
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚════╝    ╚═╝  ╚══════╝
+
 WHO AM I? amir;
 A GREEN HAT HACKER; 
 DON'T GET PARANOID, IT MAKES MINE WORSE.
@@ -16,4 +18,5 @@ IF DECIDED TO JOIN:
 	I.	MAKE AN ASCII/TEXT FILE.
 	II.	ENCRYPT THAT USING MY PGP PUBLIC KEY.
 	III.	DELETE THE READABLE AND SEND me THE ENCRYPTED FILE.
-	NOTICE: IF YOU WANTED RESPONSE FROM ME; MAKE YOUR PUBLIC KEY AVAILABLE.</pre>
+
+</pre>
