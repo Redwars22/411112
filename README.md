@@ -4,14 +4,16 @@
 ████╔╝██║ ██╔██╗ ██╔═══██╗██║██╔═══██╗██║  ██║██╔═══██╗╚═══██║   ██╔╝ ██╔═══╝ 
 ╚██████╔╝██╔╝ ██╗╚██████╔╝██║╚██████╔╝██████╔╝╚██████╔╝█████╔╝   ██║  ███████╗
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚════╝    ╚═╝  ╚══════╝
- Who Am I? amir;
- A Green Hat Hacker;
- Oh; Afraid About Hackers?
- Don't Get Paranoid. It Makes Mine Worse.
- You Don't Have To Trust Me. Ignore Me If You Want.
- I Want To Make Earth The Place Where All The Creatures Thrive.
- If Wanted To Join:
-  I   MAKE A TEXT FILE OF ANYTHING YOU WANT TO SAY.
-  II  ENCRYPT IT USING MY PGP PUBLIC KEY.
-  III DELETE THE READABLE AND SEND THE ENCYPTED FILE TO ME.
-  NOTICE: IF YOU WANTED RESPONSE FROM ME; MAKE YOUR PUBLIC KEY AVAILABLE TO ME.</pre>
+WHO AM I? amir;
+A GREEN HAT HACKER; 
+DON'T GET PARANOID, IT MAKES MINE WORSE.
+i AM AN OPEN PERSON BUT YOU DON'T HAVE TO TRUST me;
+WHO WANTS TO MAKE A BETTER WORLD IN WHICH ALL CREATURES THRIVE?
+WE ARE IN CHARGE OF OURSELVES AND NO ONE ELSE; i RESPECT YOU AND YOUR DECISION.
+
+IF DECIDED TO JOIN:
+
+	I.	MAKE A ASCII/TEXT FILE OF ANYTHING YOU WANT TO SAY.
+	II.	ENCRYPT THAT USING MY PGP PUBLIC KEY.
+	III.	DELETE THE READABLE AND SEND me THE ENCRYPTED FILE.
+	NOTICE: IF YOU WANTED RESPONSE FROM ME; MAKE YOUR PUBLIC KEY AVAILABLE.</pre>
