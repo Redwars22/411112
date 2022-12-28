@@ -4,8 +4,6 @@
 ████╔╝██║ ██╔██╗ ██╔═══██╗██║██╔═══██╗██║  ██║██╔═══██╗╚═══██║   ██╔╝ ██╔═══╝ 
 ╚██████╔╝██╔╝ ██╗╚██████╔╝██║╚██████╔╝██████╔╝╚██████╔╝█████╔╝   ██║  ███████╗
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚════╝    ╚═╝  ╚══════╝
- </pre>
-<p>
  Who Am I? amir;
  A Green Hat Hacker;
  Oh; Afraid About Hackers?
@@ -16,5 +14,4 @@
   I   MAKE A TEXT FILE OF ANYTHING YOU WANT TO SAY.
   II  ENCRYPT IT USING MY PGP PUBLIC KEY.
   III DELETE THE READABLE AND SEND THE ENCYPTED FILE TO ME.
-  NOTICE: IF YOU WANTED RESPONSE FROM ME; MAKE YOUR PUBLIC KEY AVAILABLE TO ME.
-</p>
+  NOTICE: IF YOU WANTED RESPONSE FROM ME; MAKE YOUR PUBLIC KEY AVAILABLE TO ME.</pre>
